@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrinidhi-Nayak
 - 👀 I’m interested in python,java,javascript and web development
-- 🌱 I’m currently learning python 
+
 
 
 <!---
